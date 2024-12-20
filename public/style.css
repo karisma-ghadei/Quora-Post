@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    color: rgb(82, 134, 165);
+}
+
+.post {
+    color: white;
+    background-color: rgb(61, 165, 121);
+    display: inline-block ;
+    
+    margin-right: 10px;
+    margin-bottom: 10px;
+    height: 200px;
+    width: 200px;
+    line-height: 10px;
+    border-radius: 5px;
+    border: 2px solid rgb(58, 99, 58);
+    text-align: center;
+    
+}
+.post :hover{
+    
+}
+
+.user {
+    font-style: italic;
+}
+.button{
+    border-radius: 7px;
+    color: blue ;
+}
+.post a {
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+.btn{
+    border-radius: 7px;
+}
